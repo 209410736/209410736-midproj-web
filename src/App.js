@@ -5,10 +5,7 @@ import Midproj_36 from "./pages/Midproj_36";
 function App() {
   return (
     <div >
-      <Routes>
-        <Route path='/' element={<Midproj_36/>} />
-       
-      </Routes>
+      <Midproj_36/>
     </div>
   );
 }

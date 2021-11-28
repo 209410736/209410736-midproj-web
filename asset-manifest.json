@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/209410736-midproj-web.github.io/209410736-midproj/static/css/main.abdad967.chunk.css",
-    "main.js": "/209410736-midproj-web.github.io/209410736-midproj/static/js/main.47bd463b.chunk.js",
-    "main.js.map": "/209410736-midproj-web.github.io/209410736-midproj/static/js/main.47bd463b.chunk.js.map",
-    "runtime-main.js": "/209410736-midproj-web.github.io/209410736-midproj/static/js/runtime-main.9d39bc9e.js",
-    "runtime-main.js.map": "/209410736-midproj-web.github.io/209410736-midproj/static/js/runtime-main.9d39bc9e.js.map",
-    "static/js/2.057309b3.chunk.js": "/209410736-midproj-web.github.io/209410736-midproj/static/js/2.057309b3.chunk.js",
-    "static/js/2.057309b3.chunk.js.map": "/209410736-midproj-web.github.io/209410736-midproj/static/js/2.057309b3.chunk.js.map",
-    "static/js/3.99783e69.chunk.js": "/209410736-midproj-web.github.io/209410736-midproj/static/js/3.99783e69.chunk.js",
-    "static/js/3.99783e69.chunk.js.map": "/209410736-midproj-web.github.io/209410736-midproj/static/js/3.99783e69.chunk.js.map",
-    "index.html": "/209410736-midproj-web.github.io/209410736-midproj/index.html",
-    "static/css/main.abdad967.chunk.css.map": "/209410736-midproj-web.github.io/209410736-midproj/static/css/main.abdad967.chunk.css.map",
-    "static/js/2.057309b3.chunk.js.LICENSE.txt": "/209410736-midproj-web.github.io/209410736-midproj/static/js/2.057309b3.chunk.js.LICENSE.txt"
+    "main.css": "/209410736.github.io/209410736-midproj-web/static/css/main.abdad967.chunk.css",
+    "main.js": "/209410736.github.io/209410736-midproj-web/static/js/main.47bd463b.chunk.js",
+    "main.js.map": "/209410736.github.io/209410736-midproj-web/static/js/main.47bd463b.chunk.js.map",
+    "runtime-main.js": "/209410736.github.io/209410736-midproj-web/static/js/runtime-main.1776fe2b.js",
+    "runtime-main.js.map": "/209410736.github.io/209410736-midproj-web/static/js/runtime-main.1776fe2b.js.map",
+    "static/js/2.057309b3.chunk.js": "/209410736.github.io/209410736-midproj-web/static/js/2.057309b3.chunk.js",
+    "static/js/2.057309b3.chunk.js.map": "/209410736.github.io/209410736-midproj-web/static/js/2.057309b3.chunk.js.map",
+    "static/js/3.99783e69.chunk.js": "/209410736.github.io/209410736-midproj-web/static/js/3.99783e69.chunk.js",
+    "static/js/3.99783e69.chunk.js.map": "/209410736.github.io/209410736-midproj-web/static/js/3.99783e69.chunk.js.map",
+    "index.html": "/209410736.github.io/209410736-midproj-web/index.html",
+    "static/css/main.abdad967.chunk.css.map": "/209410736.github.io/209410736-midproj-web/static/css/main.abdad967.chunk.css.map",
+    "static/js/2.057309b3.chunk.js.LICENSE.txt": "/209410736.github.io/209410736-midproj-web/static/js/2.057309b3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9d39bc9e.js",
+    "static/js/runtime-main.1776fe2b.js",
     "static/js/2.057309b3.chunk.js",
     "static/css/main.abdad967.chunk.css",
     "static/js/main.47bd463b.chunk.js"
